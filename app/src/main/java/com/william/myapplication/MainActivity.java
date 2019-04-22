@@ -30,6 +30,9 @@ public class MainActivity extends Activity {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             isExit = false;
+
+
+
         }
     };
 
